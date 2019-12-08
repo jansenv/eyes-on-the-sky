@@ -1,0 +1,10 @@
+@import "nav.css";
+
+body {
+    background-color: black;
+}
+
+section {
+    border: 1px solid red;
+    color: white;
+}

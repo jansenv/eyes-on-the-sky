@@ -1,0 +1,8 @@
+@import "nav.css";
+
+nav {
+    background-color: white;
+    border: 5px solid red;
+    color: white;
+    text-align: center;
+}
