@@ -1,0 +1,8 @@
+#photoOTD {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#photoOTD img {
+    max-width: 50%;
+}

@@ -1,0 +1,8 @@
+#marsPhotos {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#marsPhotos img {
+    max-width: 50%
+}
